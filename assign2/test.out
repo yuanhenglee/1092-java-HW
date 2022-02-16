@@ -1,0 +1,12 @@
+java -classpath bin assign2/hw2 100 4 4
+List of 4 randomly generated rectangles:
+(3,52,62,58)
+(11,5,67,46)
+(62,8,92,27)
+(52,52,62,60)
+Union of these rectangles: (3,5,92,60)
+The area of this union is 4895.
+Intersection of every two rectangles (sorted):
+(52,52,62,58)
+(62,8,67,27)
+ID: 107703004
